@@ -41,22 +41,22 @@
           >Contact us:
         </span>
         <a class="cursor-pointer no-underline mr-2">
-          <img class="max-[810px]:w-[20px] max-[480px]:w-[13px]" src="../../assets/img/Mask group121.svg" alt="logo" />
+          <img class="max-[810px]:w-[20px] max-[480px]:w-[13px]" src="../../assets/img/Maskgroup121.svg" alt="logo" />
         </a>
         <a class="cursor-pointer no-underline mr-2">
-          <img class="max-[810px]:w-[20px] max-[480px]:w-[13px]" src="../../assets/img/Mask group-1.svg" alt="logo" />
+          <img class="max-[810px]:w-[20px] max-[480px]:w-[13px]" src="../../assets/img/Maskgroup-1.svg" alt="logo" />
         </a>
         <a class="cursor-pointer no-underline mr-2">
-          <img class="max-[810px]:w-[20px] max-[480px]:w-[13px]" src="../../assets/img/Mask group-2.svg" alt="logo" />
+          <img class="max-[810px]:w-[20px] max-[480px]:w-[13px]" src="../../assets/img/Maskgroup-2.svg" alt="logo" />
         </a>
         <a class="cursor-pointer no-underline mr-2">
-          <img class="max-[810px]:w-[20px] max-[480px]:w-[13px]" src="../../assets/img/Mask group-3.svg" alt="logo" />
+          <img class="max-[810px]:w-[20px] max-[480px]:w-[13px]" src="../../assets/img/Maskgroup-3.svg" alt="logo" />
         </a>
         <a class="cursor-pointer no-underline mr-2">
-          <img class="max-[810px]:w-[20px] max-[480px]:w-[13px]" src="../../assets/img/Mask group-4.svg" alt="logo" />
+          <img class="max-[810px]:w-[20px] max-[480px]:w-[13px]" src="../../assets/img/Maskgroup-4.svg" alt="logo" />
         </a>
         <a class="cursor-pointer no-underline">
-          <img class="max-[810px]:w-[20px] max-[480px]:w-[13px]" src="../../assets/img/Mask group-5.svg" alt="logo" />
+          <img class="max-[810px]:w-[20px] max-[480px]:w-[13px]" src="../../assets/img/Maskgroup-5.svg" alt="logo" />
         </a>
       </div>
       <img class="max-[810px]:w-[35px] max-[480px]:w-[17px]" src="../../assets/img/Uslugi (1).svg" alt="Logo" />

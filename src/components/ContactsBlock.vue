@@ -26,7 +26,7 @@
                 <div class="flex items-start mt-6 max-[1000px]:mt-3">
                   <img
                     class="mr-2 max-[770px]:mr-1 max-[590px]:w-[20px]"
-                    src="../assets/img/Mask group.svg"
+                    src="../assets/img/Maskgroup.svg"
                     alt="icon"
                   />
                   <span
