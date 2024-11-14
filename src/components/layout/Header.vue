@@ -23,12 +23,6 @@
         >
           <li class="text-white font-semibold">Почему мы</li>
         </button>
-        <!-- <button
-          @click="() => sendRef('whyWe')"
-          class="cursor-pointer no-underline mr-[48px]"
-        >
-          <li class="text-white font-semibold">Почему мы</li>
-        </button> -->
         <button
           @click="() => sendRef('contacts')"
           class="cursor-pointer no-underline"
@@ -61,11 +55,5 @@ export default {
       this.$parent.$emit("scrollToSomeElement", name);
     },
   },
-  // props: {
-  //   posts: {
-  //     type: Array,
-  //     required: true
-  //   },
-  // }; -->
 };
 </script>

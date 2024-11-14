@@ -59,7 +59,7 @@
           <img class="max-[810px]:w-[20px] max-[480px]:w-[13px]" src="../../assets/img/Maskgroup-5.svg" alt="logo" />
         </a>
       </div>
-      <img class="max-[810px]:w-[35px] max-[480px]:w-[17px]" src="../../assets/img/Uslugi (1).svg" alt="Logo" />
+      <img class="max-[810px]:w-[35px] max-[480px]:w-[17px]" src="../../assets/img/Uslugi.svg" alt="Logo" />
     </div>
   </div>
 </template>
